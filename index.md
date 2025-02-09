@@ -5,3 +5,7 @@ I made two headers by using hashtags and putting a space after them.
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+- [x] Do Courses
+- [ ] Complete PDF Report
+- [ ] Submit
